@@ -1,4 +1,4 @@
-<h1 align="center">DeepL Bulk Translation</h1>
+<h1 align="center">DeepL Bulk French to english/turkish Translation</h1>
 <h3 align="center">DeepL Translation Using Python</h3>
 
 - This project for making bulk translations
