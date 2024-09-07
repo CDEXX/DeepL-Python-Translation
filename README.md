@@ -10,8 +10,8 @@
 - pip install requirements
 
 - change api key to your deepL api key its free just sign in
+![resim](https://github.com/user-attachments/assets/a319dbec-fa78-4206-a59c-c40234e0f9fe)
 
-![resim](https://github.com/user-attachments/assets/afec7e52-119a-4fa2-bda3-68c1b8039008)
 
 - write your words in here
 
