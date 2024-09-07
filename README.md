@@ -1,7 +1,7 @@
 <h1 align="center">DeepL Bulk French to english/turkish Translation</h1>
 <h3 align="center">DeepL Translation Using Python</h3>
 
-- This project for making bulk translations
+- Making bulk translations
 ![resim](https://github.com/user-attachments/assets/5e7e75f5-4db8-471d-b7b1-009013c4b608)
 
 
