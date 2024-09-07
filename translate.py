@@ -57,14 +57,6 @@ def save_to_file(word_list):
         f.write("]\n")
 
 if __name__ == "__main__":
-    # Redirect stdout to a file
-    with open("translation_output.txt", "w", encoding="utf-8") as f:
-        original_stdout = sys.stdout  # Save a reference to the original standard output
-        sys.stdout = f  # Redirect standard output to the file
-        try:
-            print("Starting translation process...")
-            word_list = create_word_dict()
-            save_to_file(word_list)
-            print("Translation process completed.")
-        finally:
-            sys.stdout = original_stdout  # Reset standard output to its original value
+    word_list = create_word_dict()
+    save_to_file(word_list)
+    print("Words saved to french_words_translated.py")
