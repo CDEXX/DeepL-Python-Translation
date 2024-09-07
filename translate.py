@@ -3,7 +3,7 @@ import time
 import sys
 
 # DeepL API key
-DEEPL_API_KEY = "7e2f7c29-a75e-41e3-a5bb-b8ad70d01a8f:fx"
+DEEPL_API_KEY = "your key"
 DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
 
 def translate_word(word, target_lang):
