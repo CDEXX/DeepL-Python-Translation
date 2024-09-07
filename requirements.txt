@@ -1,0 +1,4 @@
+essential-generators
+flake8
+pytest
+pytest-cov
